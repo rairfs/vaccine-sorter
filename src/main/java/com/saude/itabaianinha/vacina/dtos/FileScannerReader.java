@@ -7,6 +7,10 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 @Data
+/**
+ * @author Rai Rafael
+ * @contact
+ */
 public class FileScannerReader {
     Scanner vaccineReader;
     Scanner teamReader;

@@ -13,3 +13,5 @@ mvn spring-boot:run
 ```
 
 Os dados arquivos de teste foram removidos a fim de evitar exposição de informações pessoais, mas o padrão de estrutural dos arquivos podem ser encontrados na pasta ```files```.
+
+Autor: Raí Rafael
